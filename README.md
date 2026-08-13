@@ -9,7 +9,7 @@ The dataset used in this work is publicly available for research purposes.
 
 | Dataset | Download | Description |
 |---|---|---|
-| HEBUT-MultiWeather | [Baidu Netdisk](https://pan.baidu.com/s/14m9Q4kCb8yDCeg26WZFE5Q?pwd=rase) | Self-constructed UAV–satellite cross-view geo-localization dataset |
+| HEBUT-MultiWeather | [Baidu Netdisk](https://pan.baidu.com/s/14m9Q4kCb8yDCeg26WZFE5Q?pwd=rase) / [Google Drive](https://drive.google.com/file/d/1yUj5Vks4J7hEvrkj8W4NYOqtDkHveSTe/view?usp=drive_link) | Self-constructed UAV–satellite cross-view geo-localization dataset |
 
 Please download the datasets and organize them as follows.
 

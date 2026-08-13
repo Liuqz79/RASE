@@ -17,7 +17,6 @@ Please download the datasets and organize them as follows.
 
 ```text
 HEBUT-MultiWeather/
-HEBUT-MultiWeather/
 ├── 01_Sunny_winter/
 │   ├── train/
 │   │   ├── drone/

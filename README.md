@@ -13,20 +13,6 @@ The dataset used in this work is publicly available for research purposes.
 
 Please download the datasets and organize them as follows.
 
-### Dataset Organization
-
-HEBUT-MultiWeather consists of six sub-datasets collected under different
-seasonal, weather, and illumination conditions. All six subsets follow the
-same train/test partition.
-
-For each subset:
-| Split | View | Images | Classes |
-|---|---|---:|---:|
-| Train | Drone | 167 | 167 |
-| Train | Satellite | 167 | 167 |
-| Test | Query-Drone | 58 | 58 |
-| Test | Gallery-Satellite | 225 | 225 |
-
 ### Dataset Structure
 
 ```text
@@ -49,3 +35,18 @@ HEBUT-MultiWeather/
     └── test/
         ├── query_drone/
         └── gallery_satellite/
+```
+
+### Dataset Organization
+
+HEBUT-MultiWeather consists of six sub-datasets collected under different
+seasonal, weather, and illumination conditions. All six subsets follow the
+same train/test partition.
+
+For each subset:
+| Split | View | Images | Classes |
+|---|---|---:|---:|
+| Train | Drone | 167 | 167 |
+| Train | Satellite | 167 | 167 |
+| Test | Query-Drone | 58 | 58 |
+| Test | Gallery-Satellite | 225 | 225 |
